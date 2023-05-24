@@ -11,6 +11,9 @@ header{
     padding: 0.1rem;
     margin-top: 0.8rem;
 }
+.bold{
+    font-weight: bold;
+}
 main{
     display: flex;
     flex-direction: column;
