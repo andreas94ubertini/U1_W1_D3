@@ -20,6 +20,10 @@ header{
     margin-top: 0.8rem;
 }
 
+#top-yellow p{
+    color: #004d4d;
+}
+
 .bold{
     font-weight: bold;
 }
